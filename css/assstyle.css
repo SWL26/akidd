@@ -95,7 +95,7 @@ img {
   height: 110px;  
   top: 0px; 
   left: 0px;
-  background: url(file:///C:/Users/Acer/Desktop/archive/images/polosa2.jpg) no-repeat 100% 50%;
+  background: url(../images/polosa2.jpg) no-repeat 100% 50%;
   /*min-height: 100%;*/
   background-size: cover; 
   } 
@@ -108,7 +108,7 @@ img {
   height: 110px;  
   top: 0px; 
   left: 0px;
-  background-image: url(file:///C:/Users/Acer/Desktop/archive/images/polosa2.jpg) no-repeat 100% 50%;
+  background-image: url(../images/polosa2.jpg) no-repeat 100% 50%;
   /*min-height: 100%;*/
   background-size: cover;
   /*background: #D8E3AB url(logo.png) no-repeat 5% 50%;*/
