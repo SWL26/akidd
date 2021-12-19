@@ -1,0 +1,125 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+html {
+  background: url(../images/groupdune.jpg) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Akzidenz-Grotesk Pro Bold Ext;
+  font-size: 57.33px;
+  background: linear-gradient(
+    90deg,
+  rgba(240, 29, 29, 0.64) 0%,
+  rgba(159, 46, 63, 0.9) 40%,
+  rgba(79, 19, 95, 0.64) 100%);
+  display: inline-block;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.center1 {margin: 50% 0%;}
+
+
+.knopka1 {color: white; font-size: 19.2px; font-family: Akzidenz-Grotesk Pro Med; 
+ top: 39px; margin-right: 56px;
+/*  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(255, 255, 255, 0.85) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+}
+
+.knopka2 {color: white; font-size: 19.2px; font-family: Akzidenz-Grotesk Pro Med;
+ top: 39px;
+/*  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(255, 255, 255, 0.85) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+}
+
+.tnumb {color: white; font-size: 23.04px; font-family: Akzidenz-Grotesk Pro Med;
+  margin-right: 176px; margin-left: 48px;
+/*  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(255, 255, 255, 0.85) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+}
+
+
+
+.batton {position: fixed; top: -32px; left: 200px; text-align: center}
+
+img {
+  pointer-events: none;
+}
+.icons {position: fixed; bottom: 0px; left: 0px; width: 100%}
+.icons a {margin: 0px 8px}
+.icons a img { opacity: 48%; margin-bottom: 8px; transition: 0.72s}
+.icons a:hover img {opacity: 90%; transition: 0.16s}
+
+
+
+
+
+/*.header{ 
+  background-image: url(file:///C:/Users/Acer/Desktop/archive/images/polosa.jpg) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+} 
+*/
+
+.header{ 
+  /*width: 1538px;*/
+  position: fixed;
+  width: 100%;
+  height: 110px;  
+  top: 0px; 
+  left: 0px;
+  background: url(file:///C:/Users/Acer/Desktop/archive/images/polosa2.jpg) no-repeat 100% 50%;
+  /*min-height: 100%;*/
+  background-size: cover; 
+  } 
+
+ 
+ .header{ 
+  /*width: 1538px;*/
+  position: fixed;
+  width: 100%;
+  height: 110px;  
+  top: 0px; 
+  left: 0px;
+  background-image: url(file:///C:/Users/Acer/Desktop/archive/images/polosa2.jpg) no-repeat 100% 50%;
+  /*min-height: 100%;*/
+  background-size: cover;
+  /*background: #D8E3AB url(logo.png) no-repeat 5% 50%;*/
+  } 
+
+
+
+p {
+  margin-top: 400px;
+  color: white;
+}
+
+
+
