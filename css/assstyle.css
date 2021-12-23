@@ -42,7 +42,7 @@ h1 {
 }
 
 .knopka2 {color: white; font-size: 19.2px; font-family: Akzidenz-Grotesk Pro Med;
- top: 39px;
+ top: 39px; margin-right: 56px;
 /*  background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 0.9) 0%,
@@ -52,6 +52,13 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
 }
+
+
+.main {color: white; font-size: 19.2px; font-family: Akzidenz-Grotesk Pro Med;
+  top: 39px;}
+
+
+
 
 .tnumb {color: white; font-size: 23.04px; font-family: Akzidenz-Grotesk Pro Med;
   margin-right: 176px; margin-left: 48px;
