@@ -47,7 +47,26 @@ h1 {
 }
 
 
+.mainmenu {color: white; font-size: 27.65px; font-family: Akzidenz-Grotesk Pro Med;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(255, 255, 255, 0.85) 100%
+  );
+  padding: 16px 32px;
 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.button:hover {transform: scale(1.08); transition: 0.16s}
+.button {background: red; display: inline-block; padding: 16px 32px; background: rgba(55, 255, 207, 0.19);
+  border-radius: 11px; border: 1px solid rgba(255, 255, 255, 0.5); transition: 0.72s;
+}
+
+
+
+
+.button {margin: 50% 0%;}
 
 
 
