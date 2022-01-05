@@ -14,8 +14,8 @@ html {
 
 
 /*.center1 {margin: 50% 0%;}*/
-.rd {position: absolute; top: 194px; text-align: center}
-.wt {position: absolute; top: 109px; text-align: center}
+.rd {position: absolute; top: 194px; text-align: center; font-family: "TimeMover";}
+.wt {position: absolute; top: 109px; text-align: center; font-family: "TimeMover";}
 
 
 

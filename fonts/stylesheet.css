@@ -358,3 +358,7 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'TimeMover';
+    src: url('TimeMover.ttf');
+}
