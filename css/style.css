@@ -64,7 +64,7 @@ p {
 .button {background: red; display: inline-block; padding: 16px 32px; background: rgba(55, 255, 207, 0.19);
   border-radius: 11px; border: 1px solid rgba(255, 255, 255, 0.5); transition: 0.72s;
 }
-.center1 {margin: 50% 0%;}
+.center1 {margin: 30% 0%;}
 
 img {
   pointer-events: none;
