@@ -31,8 +31,7 @@ h1 {
 .center1 {margin: 30% 0%;}
 
 
-.knopka1 {color: white; font-size: 19.2px; font-family: Akzidenz-Grotesk Pro Med; 
- top: 39px; margin-right: 56px;
+.knopka1 {color: white; font-size: 13.33px; font-family: Akzidenz-Grotesk Pro Med; margin-left: 256px;
   /*background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 0.9) 0%,
@@ -43,7 +42,7 @@ h1 {
   -webkit-text-fill-color: transparent;*/
 }
 
-.knopka2 {color: white; font-size: 13.33px; font-family: Akzidenz-Grotesk Pro Med; margin-left: 512px}
+.knopka2 {color: white; font-size: 13.33px; font-family: Akzidenz-Grotesk Pro Med; margin-left: 8px}
 
 
 .main {color: white; font-size: 13.33px; font-family: Akzidenz-Grotesk Pro Med; top: 39px; margin-left: 8px}
