@@ -1,0 +1,84 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+html {
+  background: url(../images/alvspred.jpg);
+  min-height: 100%;
+  background-size: cover;
+}
+
+
+
+.knopka3 {color: white; font-size: 27.65px; font-family: Akzidenz-Grotesk Pro Med; 
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(255, 255, 255, 0.85) 100%
+    );
+    padding: 16px 32px;
+  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .button:hover {transform: scale(1.08); transition: 0.16s}
+  .button {background: red; display: inline-block; padding: 16px 32px; background: rgba(19, 0, 66, 1);
+    border-radius: 11px; border: 1px solid rgba(144, 173, 197, 0.5); transition: 0.72s;
+  }
+
+
+
+
+
+  .knopka4 {color: white; font-size: 27.65px; font-family: Akzidenz-Grotesk Pro Med; 
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(255, 255, 255, 0.85) 100%
+    );
+    padding: 16px 32px;
+  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .button2:hover {transform: scale(1.08); transition: 0.16s}
+  .button2 {background: red; display: inline-block; padding: 16px 32px; background: rgba(19, 0, 66, 1);
+    border-radius: 11px; border: 1px solid rgba(144, 173, 197, 0.5); transition: 0.72s;
+  }
+
+
+
+
+
+  .knopka5 {color: white; font-size: 27.65px; font-family: Akzidenz-Grotesk Pro Med; 
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(255, 255, 255, 0.85) 100%
+    );
+    padding: 16px 32px;
+  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .button3:hover {transform: scale(1.08); transition: 0.16s}
+  .button3 {background: red; display: inline-block; padding: 16px 32px; background: rgba(19, 0, 66, 1);
+    border-radius: 11px; border: 1px solid rgba(144, 173, 197, 0.5); transition: 0.72s;
+  }
+
+  .center1 {margin: 30% 0%;}
+
+  img {
+    pointer-events: none;
+  }
+  .icons {position: fixed; bottom: 0px; left: 0px; width: 100%}
+  .icons a {margin: 0px 8px}
+  .icons a img { opacity: 48%; margin-bottom: 0px; transition: 0.72s}
+  .icons a:hover img {opacity: 90%; transition: 0.16s}
+
+
+  
